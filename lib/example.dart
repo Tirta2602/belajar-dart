@@ -2,9 +2,9 @@ import 'package:dasar_dart/dasar_dart.dart' as dasar_dart;
 
 void main() {
 // 01 var
-// var name = "aldi";
-// name ="budi";
-// print(name);
+var name = "aldi";
+name ="budi";
+print(name);
 
 // 02 final
 // final name = "aldi";
